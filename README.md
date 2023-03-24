@@ -7,8 +7,8 @@ Motherboard|Gigabyte Z690M AORUS ELITE DDR4
 GPU|AMD RX 5500XT
 Processor|Intel® Core™ i5-12600K
 
-- Opencore version: 0.8.7
-- Release date: 06/12/2022
+- Opencore version: 0.9.0
+- Release date: 06/03/2022
 
 # Basic Steps
 
