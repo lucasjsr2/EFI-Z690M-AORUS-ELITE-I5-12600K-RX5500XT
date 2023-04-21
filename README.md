@@ -1,13 +1,16 @@
-# EFI for Intel Desktop 12th Gen (Alder Lake) - Opencore 0.9.1 - Z690M AORUS ELITE DDR4 - macOS Ventura 13.3 - AMD RX 5500XT
+# EFI for Intel Desktop 12600K - Opencore 0.9.1 - Z690M AORUS ELITE DDR4 - macOS Ventura 13.3.1 - AMD RX 5500XT
 
 Note|Description
 :----|:----
-macOS|Ventura 13.3
+macOS|Ventura 13.3.1
 Motherboard|Gigabyte Z690M AORUS ELITE DDR4
 GPU|AMD RX 5500XT
 Processor|Intel® Core™ i5-12600K
 NVME SSD|XPG S41 TUF 512Gb
 RAM|2x XPG Gammix D45 8Gb 3600Mhz DDR4
+Wifi/Bluetooth | WIFI 6E FENVI FV-AXE3000RGB - AX210 - Bluetooth 5.2
+Ethernet | Intel® I225-V 2.5GbE LAN
+SMBIOS | iMacPro1,1
 
 - Opencore version: 0.9.1
 
