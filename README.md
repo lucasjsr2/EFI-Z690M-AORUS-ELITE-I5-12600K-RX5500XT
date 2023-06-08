@@ -1,8 +1,8 @@
-# EFI for Intel Desktop 12600K - Opencore 0.9.2 - Z690M AORUS ELITE DDR4 - macOS Ventura 13.3.1(a) - AMD RX 5500XT
+# EFI for Intel Desktop 12600K - Opencore 0.9.2 - Z690M AORUS ELITE DDR4 - macOS Ventura 13.4 - AMD RX 5500XT
 
 Note|Description
 :----|:----
-macOS|Ventura 13.3.1 (a)
+macOS|Ventura 13.4
 Motherboard|Gigabyte Z690M AORUS ELITE DDR4
 GPU|AMD RX 5500XT
 Processor|Intel® Core™ i5-12600K
