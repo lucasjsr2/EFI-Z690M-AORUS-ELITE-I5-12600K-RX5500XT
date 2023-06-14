@@ -1,4 +1,4 @@
-# EFI for Intel Desktop 12600K - Opencore 0.9.2 - Z690M AORUS ELITE DDR4 - macOS Ventura 13.4 - AMD RX 5500XT
+# EFI for Intel Desktop 12600K - Opencore 0.9.3 - Z690M AORUS ELITE DDR4 - macOS Ventura 13.4 - AMD RX 5500XT
 
 Note|Description
 :----|:----
@@ -12,7 +12,7 @@ Wifi/Bluetooth | WIFI 6E FENVI FV-AXE3000RGB - AX210 - Bluetooth 5.2
 Ethernet | Intel® I225-V 2.5GbE LAN
 SMBIOS | iMacPro1,1
 
-- Opencore version: 0.9.2
+- Opencore version: 0.9.3
 
 # Basic Steps
 
